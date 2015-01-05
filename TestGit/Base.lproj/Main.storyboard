@@ -56,13 +56,14 @@
                         <viewControllerLayoutGuide type="bottom" id="o03-LK-uA2"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="jSo-Vx-3QP">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="e2i-b2-HST" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1824" y="311"/>
+            <point key="canvasLocation" x="2008.5" y="295"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="v9s-q0-BDK">
